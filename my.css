@@ -1,0 +1,71 @@
+.mainwrapper{
+    background-color: rgba(196, 193, 193, 0.952);
+    width: 100%;
+    
+}
+.bluebar{
+    background-color: #085DA9;
+    height: 24px;
+}
+
+.whitebar{
+    background-color: white;
+    height: 40px;
+}
+.headline{
+    color:#059FDB;
+    
+}
+
+.searchbar{
+    width:55%;
+    margin-left:320px;  
+}
+
+.subtitle{
+    color: #059FDB;
+}
+
+.accor{
+    background-color: green;
+}
+
+.main-nav li{
+    color: #059FDB;
+    width: 150px;
+    border-radius: 0em;
+    margin: 1px;
+    text-align: center;
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+
+.btn-search{
+    background-color: blue;
+    color:white;
+}
+#accordion .mycard{
+    border-radius: 0em;
+    width: 250px;
+    color: #059FDB;
+    margin: 1px;
+    
+}
+.semiüberschrift{
+    color:#059FDB;  
+}
+.footer{
+    color:#059FDB;
+    max-height: 20px;
+}
+
+
+
+@media (max-width: 575px) {
+    .btn-search{
+        margin-top:10px;
+    }
+    
+}
+ 
